@@ -7,9 +7,9 @@ public class Main {
 
         Producto p1 = new Producto("P001", "Teclado Mecánico", 45000.0);
         Producto p2 = new Producto("P002", "Mouse Inalámbrico", 22000.0);
-        // Mismo código que p1, pero distinta instancia y otros datos
+       
         Producto p1Duplicado = new Producto("P001", "Teclado Mecánico RGB", 49500.0);
-        // Otra instancia más con el mismo código "P002"
+        
         Producto p2Duplicado = new Producto("P002", "Mouse Gamer", 25000.0);
         Producto p3 = new Producto("P003", "Monitor 24\"", 185000.0);
 
